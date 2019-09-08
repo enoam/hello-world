@@ -1,2 +1,4 @@
 # hello-world
-My First Blockchain repository
+
+Hello all, 
+As I need to make changes to the branch files I've edited this text :-)
